@@ -22,12 +22,6 @@ This project is basically a clone of another open source Jira clone build in Rea
 
 I belive that this project will be a great example for Vuejs developers in the future transitioning from the old Vuejs Api to the new composition Api or for Vuejs newcomers in general.
 
-## Author: Bouaggad Moez ✍️
-
-Email : mrbouaggadmoez@gmail.com
-
-Website : https://bouaggadmoez.netlify.com/
-
 ## Contributing
 
 I think the state of the project is good as it is right now feature wise and i will only be fixing bugs if they come up so it you want to contribute in doing so you are very welcome.
